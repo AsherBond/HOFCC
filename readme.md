@@ -33,7 +33,7 @@ CognitiveCompiler exemplifies HOF by using language models to dynamically genera
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/CognitiveCompiler.git
+   git clone git@github.com:Distillative-AI/HOFCC.git
    cd CognitiveCompiler
    ```
 
